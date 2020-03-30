@@ -1,5 +1,7 @@
 # Zoom Education Suite (ZEST)
-A worldwide pandemic has pushed education out of the classroom and into online forums for much of the world. Zoom has emerged as one of the services leading the way in the transition to internet lessons. While certainly a capable platform in its current state, Zoom possesses some inherent limitations as a classroom substitute. We believe optimizations could be made to improve user accessibility along with providing better engagement metrics to the instructor. 
+A worldwide pandemic has pushed education out of the classroom and into online forums for much of the world. Zoom has emerged as one of the services leading the way in the transition to internet lessons. While certainly a capable platform in its current state, Zoom possesses some inherent limitations as a classroom substitute. We believe optimizations could be made to improve user accessibility along with providing better engagement metrics to the instructor.
+
+[Check out our demo video here!](https://www.youtube.com/watch?v=KZQPiO59TsE)
 
 ## What it does
 
@@ -40,4 +42,8 @@ Throughout the hackathon we were in contact with the Google Cloud API through va
 * Full integration of the results of all of our features (closed-captioning and facial expression analysis) into the main python + tkinter client that already serves everything from our python + selenium interface
 
 * Bot-prompted activities, games, live-video labeling, etc.
+
+## Other stuff
+* No, there is no _good_ explanation for the 'T' in the acronym
+* ZEST was built as part of HooHacks 2020.
 
