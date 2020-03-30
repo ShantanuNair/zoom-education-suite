@@ -35,7 +35,11 @@ A worldwide pandemic has pushed education out of the classroom and into online f
 
 ## What we learned
 
-Throughout the hackathon we were in contact with the Google Cloud API through various manners, whether for subtitles or image recognition. We were also able to better grasp how large scale third-party applications can make use of API's such as Zoom's to offer a different experience and/or a better one.
+* We developed a better understanding of Selenium (albeit still probably rudimentary)
+
+* We explored some of the (many!) Google Cloud APIs; for subtitles and facial expression recognition
+
+* Zoom probably doesn't really want bots interacting with their software—they provide great APIs in some cases (i.e. allow overlaying live subtitles), but don't give _any_ access to a lot of the things we wanted to track (like hand-raising and attendance)
 
 ## What's next for Zoom Education Suite (ZEST)
 
