@@ -49,5 +49,4 @@ A worldwide pandemic has pushed education out of the classroom and into online f
 
 ## Other stuff
 * No, there is no _good_ explanation for the 'T' in the acronym
-* ZEST was built as part of HooHacks 2020.
-
+* ZEST was built as part of HooHacks 2020 [(see the Devpost)](https://devpost.com/software/zoom-education-suite-zest)
