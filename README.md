@@ -1,5 +1,5 @@
 # Zoom Education Suite (ZEST)
-A worldwide pandemic has pushed education out of the classroom and into online forums for much of the world. Zoom has emerged as one of the services leading the way in the transition to internet lessons. While certainly a capable platform in its current state, Zoom possesses some inherent limitations as a classroom substitute. We at Zest believe optimizations could be made to improve user accessibility along with providing better engagement metrics to the instructor. 
+A worldwide pandemic has pushed education out of the classroom and into online forums for much of the world. Zoom has emerged as one of the services leading the way in the transition to internet lessons. While certainly a capable platform in its current state, Zoom possesses some inherent limitations as a classroom substitute. We believe optimizations could be made to improve user accessibility along with providing better engagement metrics to the instructor. 
 
 ## What it does
 
